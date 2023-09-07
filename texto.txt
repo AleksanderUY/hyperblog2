@@ -1,0 +1,5 @@
+Este es un archivo de texto de prueba
+
+podemos agregar 1000 lineas de codigo aqui
+
+hecho en visual studio code
