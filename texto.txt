@@ -2,4 +2,6 @@ Este es un archivo de texto de prueba
 
 podemos agregar 1000 lineas de codigo aqui
 
+agregamos esta linea de texto para modificar el arichivo.
+
 hecho en visual studio code
