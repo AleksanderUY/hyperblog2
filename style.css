@@ -4,3 +4,10 @@ body _{
     font-family: 'Courier New', Courier, monospace;
     
 }
+
+#nuevo {
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: brown;
+    color: antiquewhite;
+}
